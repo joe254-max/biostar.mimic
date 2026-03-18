@@ -18,9 +18,6 @@ conda create -y --name engine python=3.6
 # Activate the python environment.
 conda activate engine
 
-# Clone the source server code and the recipe code.
-git clone https://github.com/ialbert/biostar-central.git
-
 # Switch to the biostar-engine directory.
 cd biostar-central
 
